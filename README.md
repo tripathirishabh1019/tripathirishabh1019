@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Triapthi</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 
-- 🔭 I’m currently working on [Personality Matcher Using Machine Learning](https://znkkguzswjhzb5bzmsf9d6.streamlit.app/)
-
-- 🌱 I’m currently learning **Machine Learning Model Optimization Real-world Deployment Techniques**
 
 - 👯 I’m looking to collaborate on **end-to-end machine learning deployment project**
 
