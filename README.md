@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tripathirishabh7890@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14eOAmKaE3DWTuvIua5cDmJlimnteaQgD/edit?usp=sharing&ouid=116299327338520139912&rtpof=true&sd=true](https://docs.google.com/document/d/14eOAmKaE3DWTuvIua5cDmJlimnteaQgD/edit?usp=sharing&ouid=116299327338520139912&rtpof=true&sd=true)
+- 📄 Know about my experiences https://drive.google.com/drive/u/0/folders/1VhpxdsP6uA1ZHn1k5DT3YWIwJJJFqfEc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
